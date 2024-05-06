@@ -2,14 +2,14 @@
   <img src="https://media1.tenor.com/m/MFt1WVDeUhUAAAAd/smol-illegally-smol-cat.gif" width="498" height="498"/>
 </div>
 
-### 	:smile_cat: A couple of facts about me :
-Hi, I'm Julia
+### :smile_cat: A couple of facts about me :
+Hi, I'm *Julia*
 
-- :nail_care: I'm 20 years old
+- :nail_care: I'm **20** years old
   
 - :houses: I live in Minsk
   
-- :man_student:  I am a student at BSUIR.
+- :man_student:  I am a student at ***BSUIR***.
 
 - :mailbox: Subscribe: [:shrimp:](https://www.instagram.com/_yulia_shenets_?igsh=MTI0ejY5cnI0cmRzNg==)
 
